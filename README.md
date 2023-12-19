@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I am Shubham Rane<br>🔭 I’m currently pursuing my Master in Data Science and Big Data Analytics<br>🌱 I’m currently learning Deep Learning, SQL<br>💬 Ask me about Python, PowerBI
+👋 Hey there, I am Shubham Rane<br>🔭 I have completed my Master in Data Science and Big Data Analytics<br>🌱 I’m currently learning Deep Learning, SQL<br>💬 Ask me about Python, PowerBI
 
 
 ## 🌐 Socials:
